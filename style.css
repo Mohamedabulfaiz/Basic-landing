@@ -18,7 +18,7 @@ h1{
 button{
     border: none;
     color: #0056D2;
-    padding: 8px 15px;
+    padding: 15px 10px 15px 10px;
     border-radius: 4px;
     margin-top: 30px;
 }
@@ -26,10 +26,10 @@ p{
     margin-top: 30px;
 }
 .first-div{
-    width: 49%;
+    width: 50%;
     display: inline-block;   
 }
 .second-div{
-    width: 48%;
+    width: 49%;
     display: inline-block;
 }
