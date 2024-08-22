@@ -4,8 +4,9 @@ body{
 .container
  {
     font-family: "Open Sans", sans-serif;
-    color: aliceblue;  
-    margin: 100px;
+    color: aliceblue; 
+    margin: 100px; 
+
   }
 img{
     border-radius: 10px;
